@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 110 154'>
+<rect x='2' y='2' width='106' height='150' rx='10' fill='white' stroke='#222' stroke-width='2'/>
+<rect x='8' y='8' width='94' height='138' rx='5' fill='none' stroke='#ddd'/>
+<text x='12' y='22' font-size='17' font-family='Georgia' fill='#111'>Q</text>
+<text x='12' y='40' font-size='16' font-family='Georgia' fill='#111'>♣</text>
+<text x='98' y='132' text-anchor='end' font-size='17' font-family='Georgia' fill='#111' transform='rotate(180 98 132)'>Q</text>
+<text x='98' y='114' text-anchor='end' font-size='16' font-family='Georgia' fill='#111' transform='rotate(180 98 114)'>♣</text>
+<text x='55' y='88' text-anchor='middle' font-size='44' font-family='Georgia' fill='#111'>♣</text>
+</svg>
